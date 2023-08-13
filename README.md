@@ -1,2 +1,2 @@
-# AWS_Cloud_Formation
+# AWS-Cloud-Formation
 Repositório do curso AWS Cloud Practitioner
