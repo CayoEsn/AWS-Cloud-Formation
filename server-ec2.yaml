@@ -1,0 +1,8 @@
+---
+Resources:
+  WebServers:
+    Type: AWS::EC2::Instance
+    Properties:
+      AvailabilityZone: us-east-2a
+      ImageId: ami-098dd3a86ea110896
+      InstanceType: t2.micro
